@@ -1,3 +1,5 @@
+// 请求处理模块
+
 var exec = require("child_process").exec;
 var querystring = require("querystring");
 var formidable = require("formidable");
