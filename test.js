@@ -17,3 +17,5 @@ _.each([1, 2, 3, 4], (item, i) => {
 
 var request = require('request');
 request('https://www.baidu.com/img/bd_logo1.png').pipe(fs.createWriteStream('baidu.png'));
+
+echo "khjhhghhj";
